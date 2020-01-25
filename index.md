@@ -20,7 +20,7 @@ I received my bachelor's degree from Department of Automation, Tsinghua Universi
 
 #### Vision-and-language Navigation (VLN)
 
-[VLN](/assets/img/VLN.jpg)
+![VLN](/assets/img/VLN.jpg)
 
 Focusing on the generalizability issue in VLN.
 
@@ -28,7 +28,7 @@ Helping the navigational model with common sense knowledge.
 
 #### MRI image super-resolution and segmentation
 
-[MRI](/asserts/img/mri.jpg)
+![MRI](/asserts/img/mri.jpg)
 
 Medical image processing with signal processing and deep learning methods.
 
