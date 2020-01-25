@@ -12,7 +12,6 @@ I received my bachelor's degree from Department of Automation, Tsinghua Universi
 ## Education
 
 * 2018 - Present: Ph.D. student in Computer Science, UNC-Chapel Hill, USA
-
 * 2014 - 2018: B.E. from Department of Automation, Tsinghua University, China
 
 
@@ -23,7 +22,6 @@ I received my bachelor's degree from Department of Automation, Tsinghua Universi
 ![VLN](/assets/img/VLN.jpg)
 
 * Focusing on the generalizability issue in VLN.
-
 * Helping the navigational model with common sense knowledge.
 
 #### MRI image super-resolution and segmentation
@@ -40,4 +38,4 @@ I received my bachelor's degree from Department of Automation, Tsinghua Universi
 
 #### Wavelet transform in cables' fault detection
 
-Junmin Zhang, **Yubo Zhang**, and Yonggang Guan. "[Analysis of time-domain reflectometry combined with wavelet transform for fault detection in aircraft shielded cables](https://ieeexplore.ieee.org/document/7442073)," in _IEEE Sensors Journal_, 16.11 (2016): 4579-4586.
+* Junmin Zhang, **Yubo Zhang**, and Yonggang Guan. "[Analysis of time-domain reflectometry combined with wavelet transform for fault detection in aircraft shielded cables](https://ieeexplore.ieee.org/document/7442073)," in _IEEE Sensors Journal_, 16.11 (2016): 4579-4586.
