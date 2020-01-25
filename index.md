@@ -32,7 +32,7 @@ I received my bachelor's degree from Department of Automation, Tsinghua Universi
 
 #### Information theory in synthetic biological processes
 
-![iGEM](/assets/img/igem.png)
+<img width="120" height="90" src="/assets/img/igem.png"/>
 
 * Participated iGEM 2016 Competition, [team wiki](http://2016.igem.org/Team:Tsinghua-A)
 
