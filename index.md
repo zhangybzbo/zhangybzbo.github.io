@@ -21,7 +21,8 @@ I received my bachelor's degree from Department of Automation, Tsinghua Universi
 
 ![VLN](/assets/img/VLN.jpg)
 
-* Focusing on the generalizability issue in VLN. [Preprint](https://openreview.net/forum?id=S1eYKlrYvr)
+* Focusing on the generalizability issue in VLN.
+* **Yubo Zhang**\*, Hao Tan\*, Mohit Bansal. "[Diagnosing the Environment Bias in Vision-and-Language Navigation](https://arxiv.org/abs/2005.03086)," in _IJCAI 2020_
 * Helping the navigational model with common sense knowledge.
 
 #### MRI image super-resolution and segmentation
