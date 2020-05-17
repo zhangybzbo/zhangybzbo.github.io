@@ -21,18 +21,20 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        <br>
+        <br>
+        
         {% if site.show_downloads %}
+          <div class="logo">
           <table frame=void>
             <tr>
-               <td><a href="https://drive.google.com/file/d/1lUtypZEWJfb1FYi2okOxAkjx6M6z5ye6/view?usp=sharing"><strong>CV</strong></a></td>
-               <td><a href="https://github.com/zhangybzbo"><img src="/assets/img/github.png" height="20" width="20" /></a></td>
-               <td><a href="https://www.linkedin.com/in/yubo-zhang-94385516b/"><img src="/assets/img/linkdIn.png" height="15" width="15" /></a></td>
-               <td></td>
-               <td></td>
+               <td><a href = "mailto: zhangyb@cs.unc.edu"><img src="/assets/img/email.png" /></a></td>
+               <td><a href="/assets/img/Yubo_CV_202002_v2.pdf"><img src="/assets/img/resume.png" /></a></td>
+               <td><a href="https://github.com/zhangybzbo"><img src="/assets/img/github.png" /></a></td>
+               <td><a href="https://www.linkedin.com/in/yubo-zhang-94385516b/"><img src="/assets/img/linkdIn.png" /></a></td>
             </tr>
           </table>
+          </div>
         {% endif %}
       </header>
       <section>
@@ -41,9 +43,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p>© 2020 Yubo Zhang. All rights reserved. <br> Last updated: May 2020. </p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
