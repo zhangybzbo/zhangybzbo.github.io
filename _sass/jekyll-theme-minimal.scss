@@ -119,6 +119,17 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+ 
+.guide ul {
+    list-style-type: square;
+}
+ 
+.guide li a {
+    display: block;
+    color:#267CB9;
+    text-decoration:none;
+    padding: 4px 4px;
+}
 
 ul.downloads {
   list-style:none;
@@ -201,7 +212,7 @@ footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:30px;
+  bottom:10px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 

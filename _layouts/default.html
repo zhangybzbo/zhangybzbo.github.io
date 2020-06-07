@@ -14,6 +14,7 @@
   </head>
   <body>
     <div class="wrapper">
+
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
@@ -36,12 +37,25 @@
           </table>
           </div>
         {% endif %}
+
+      <div class="guide">
+      <ul>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#research">Research</a></li>
+          <li><a href="#misc">MISC</a></li>
+      </ul>
+      </div>
+
       </header>
+
+
       <section>
 
       {{ content }}
 
       </section>
+
+
       <footer>
         <p>© 2020 Yubo Zhang. All rights reserved. <br> Last updated: May 2020. </p>
       </footer>
