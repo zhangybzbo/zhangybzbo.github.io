@@ -113,6 +113,30 @@ img {
   transform: scale(1.1);
 }
 
+.gallery {
+       margin-top:10px;
+       margin-bottom:0px;
+       margin-left:5px;
+       margin-right:5px;
+       border: 1px solid #fff;
+       float: left;
+       width: 200px;
+     }
+
+.gallery:hover {
+       transform: scale(1.05);
+     }
+
+.gallery img {
+       width: 100%;
+       height: auto;
+     }
+
+.desc {
+       padding:3px;
+       text-align: center;
+     }
+
 header {
   width:270px;
   float:left;
