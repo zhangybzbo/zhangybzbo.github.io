@@ -45,17 +45,3 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 ## Wavelet transform in cables' fault detection
 
 * Junmin Zhang, **Yubo Zhang**, and Yonggang Guan. "[Analysis of time-domain reflectometry combined with wavelet transform for fault detection in aircraft shielded cables](https://ieeexplore.ieee.org/document/7442073)," in _IEEE Sensors Journal_, 16.11 (2016): 4579-4586.
-
-<br>
-<HR SIZE=2>
-# MISC
-
-* My name in Chinese is 张钰博.
-* I was born in Huhhot, Inner Mongolia, and grew up in Beijing.
-
-* I'm a sports lover, good at several kinds of ball games (soccer, table tennis, badminton, etc.). Among them, soccer is my favorite.
-* FC Bayern is my favorite soccer team.
-* I spent four wonderful years in THU DA Women's Soccer Team, and was honored to be the captain in 2016-2017.
-
-* I'm a music lover, though I can't sing and play little instrument.
-* Rock music is my favorite, especially classic rock. A list of artists I love: Bruce Springsteen, Eagles, Dire Straits, Coldplay...
