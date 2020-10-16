@@ -1,4 +1,4 @@
-I",<h1 id="about-me">About Me</h1>
+I"�<h1 id="about-me">About Me</h1>
 
 <p>I’m Yubo Zhang, a Ph.D. candidate in the Department of Computer Science, UNC-Chapel Hill, working with Prof. <a href="https://cs.unc.edu/people/stephen-m-pizer/">Stephen Pizer</a>. My research interests lie in deep learning approaches for medical image analysis and 3D reconstruction. In the first two years of my stay at UNC, I was working with Prof. <a href="http://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, focusing on language-and-vision grounding tasks.</p>
 
@@ -14,21 +14,22 @@
 <p><br /></p>
 <h1 id="research">Research</h1>
 
-<h2 id="vision-and-language">Vision-and-language</h2>
+<h2 id="real-time-3d-reconstruction-of-colonoscopic-surfaces">Real-time 3D reconstruction of colonoscopic surfaces</h2>
 
-<h3 id="vision-and-language-navigation-vln">Vision-and-language Navigation (VLN)</h3>
+<p><img src="/assets/img/20.gif" alt="RNNSLAM" /></p>
+
+<ul>
+  <li>Reconstructing 3D colon surfaces from colonoscopy videos with the methods of deep learning and simultaneous localization and mapping (SLAM). <a href="http://endoscopography.web.unc.edu/">Project website</a>.</li>
+  <li>Developing geometric algorithms for evaluating the reconstructed colonoscopic surfaces.</li>
+</ul>
+
+<h2 id="vision-and-language">Vision-and-language</h2>
 
 <p><img src="/assets/img/VLN.jpg" alt="VLN" /></p>
 
 <ul>
-  <li>Focusing on the generalizability issue in VLN, and helping the navigational model with common sense knowledge.</li>
+  <li>Focusing on vision and language grounding problems, i.e., vision-and-language navigation (VLN) and visual question answering (VQA) tasks. Improving the generalizability and interpretability of the multi-modality neural models.</li>
   <li><strong>Yubo Zhang</strong>*, Hao Tan*, Mohit Bansal. “<a href="https://arxiv.org/abs/2005.03086">Diagnosing the Environment Bias in Vision-and-Language Navigation</a>,” in <em>IJCAI 2020</em>.</li>
-</ul>
-
-<h3 id="visual-question-answering">Visual question answering</h3>
-
-<ul>
-  <li>Developing structured and interpretable solution for VQA tasks.</li>
 </ul>
 
 <h2 id="mri-image-super-resolution-and-segmentation">MRI image super-resolution and segmentation</h2>
