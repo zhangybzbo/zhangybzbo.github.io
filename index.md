@@ -16,18 +16,20 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 <br>
 # Research
 
-## Vision-and-language
+## Real-time 3D reconstruction of colonoscopic surfaces
 
-### Vision-and-language Navigation (VLN)
+![RNNSLAM](/assets/img/20.gif)
+
+* Reconstructing 3D colon surfaces from colonoscopy videos with the methods of deep learning and simultaneous localization and mapping (SLAM). [Project website](http://endoscopography.web.unc.edu/).
+* Developing geometric algorithms for evaluating the reconstructed colonoscopic surfaces.
+
+## Vision-and-language
 
 ![VLN](/assets/img/VLN.jpg)
 
-* Focusing on the generalizability issue in VLN, and helping the navigational model with common sense knowledge.
+* Focusing on vision and language grounding problems, i.e., vision-and-language navigation (VLN) and visual question answering (VQA) tasks. Improving the generalizability and interpretability of the multi-modality neural models. 
 * **Yubo Zhang**\*, Hao Tan\*, Mohit Bansal. "[Diagnosing the Environment Bias in Vision-and-Language Navigation](https://arxiv.org/abs/2005.03086)," in _IJCAI 2020_.
 
-### Visual question answering
-
-* Developing structured and interpretable solution for VQA tasks.
 
 ## MRI image super-resolution and segmentation
 
