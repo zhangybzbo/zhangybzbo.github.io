@@ -11,7 +11,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 ## News
 
 * February 2021: A paper accepted at IPMI 2021.
-* January 2021: Joining Amazon as a Applied Scientist Intern for Summer 2021.
+* January 2021: Joining Amazon as an Applied Scientist Intern for Summer 2021.
 * January 2021: Presenting our VLN paper at IJCAI 2020.
 * January 2021: A paper accepted at ISBI 2021.
 * May 2020: Join the UNC MIDAG lab.
@@ -28,7 +28,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 > - Deep learning for image enhancement, applying to colonoscopy video frames.
 > - Developing geometric algorithms for evaluating the reconstructed colonoscopic surfaces.
 
-1. **Yubo Zhang**, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian Rosenman, Stephen Pizer. "Lighting Enhancement Aids Reconstruction of Colonoscopic Surfaces," in _IPMI 2021_.
+1. **Yubo Zhang**, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian Rosenman, Stephen Pizer. "[Lighting Enhancement Aids Reconstruction of Colonoscopic Surfaces](https://arxiv.org/abs/2103.10310)," in _IPMI 2021_.
 1. Ruibin Ma, Sarah K. McGill, Rui Wang, Julian Rosenman, Jan-Michael Frahm, **Yubo Zhang**, Stephen Pizer. "Colon10K: A Benchmark for Place Recognition in Colonoscopy,'' in _ISBI 2021_.
 
 ## Vision-and-language
