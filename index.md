@@ -17,6 +17,12 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 * May 2020: Join the UNC MIDAG lab.
 * May 2020: Passed the PRP exam (PhD qualifying exam).
 
+## Experience
+
+* Aug. 2018 - Present: _Research Assistant_ at Computer Science Department, UNC-CH
+* May 2021 - Aug. 2021: _Applied Scientist Intern_ at Amazon Alexa AI
+* Jun. 2017 - Sept. 2017: _Research Intern_ at Electrical Engineering Department, USC
+
 <br>
 # Research
 
