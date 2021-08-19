@@ -35,7 +35,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 > - Developing geometric algorithms for evaluating the reconstructed colonoscopic surfaces.
 
 1. **Yubo Zhang**, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian Rosenman, Stephen Pizer. "[Lighting Enhancement Aids Reconstruction of Colonoscopic Surfaces](https://arxiv.org/abs/2103.10310)," in _IPMI 2021_.
-1. Ruibin Ma, Rui Wang, **Yubo Zhang**, Stephen Pizer, Sarah K. McGill, Julian Rosenman. "RNNSLAM: Reconstructing the 3D Colon to Visualize Missing Regions during a Colonoscopy," in _Medical Image Analysis_.
+1. Ruibin Ma, Rui Wang, **Yubo Zhang**, Stephen Pizer, Sarah K. McGill, Julian Rosenman. "RNNSLAM: Reconstructing the 3D Colon to Visualize Missing Regions during a Colonoscopy," in _Medical Image Analysis_ 72 (2021): 102100.
 1. Ruibin Ma, Sarah K. McGill, Rui Wang, Julian Rosenman, Jan-Michael Frahm, **Yubo Zhang**, Stephen Pizer. "Colon10K: A Benchmark for Place Recognition in Colonoscopy,'' in _ISBI 2021_.
 
 ## Vision-and-language
