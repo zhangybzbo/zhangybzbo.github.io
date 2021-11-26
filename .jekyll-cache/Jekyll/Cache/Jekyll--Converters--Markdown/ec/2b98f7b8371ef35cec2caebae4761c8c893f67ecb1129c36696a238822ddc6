@@ -1,4 +1,4 @@
-I"�<h1 id="about-me">About Me</h1>
+I"<h1 id="about-me">About Me</h1>
 
 <p>I’m Yubo Zhang, a Ph.D. candidate in the Department of Computer Science, UNC-Chapel Hill, working with Prof. <a href="https://cs.unc.edu/people/stephen-m-pizer/">Stephen Pizer</a>. My research interests lie in deep learning approaches for computer vision and medical image analysis. In the first two years of my stay at UNC, I was working with Prof. <a href="http://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, focusing on language-and-vision grounding tasks.</p>
 
@@ -7,6 +7,7 @@
 <h2 id="news">News</h2>
 
 <ul>
+  <li>November 2021: A new preprint on arxiv.</li>
   <li>February 2021: A paper accepted at IPMI 2021.</li>
   <li>January 2021: Joining Amazon as an Applied Scientist Intern for Summer 2021.</li>
   <li>January 2021: Presenting our VLN paper at IJCAI 2020.</li>
@@ -18,8 +19,9 @@
 <h2 id="experience">Experience</h2>
 
 <ul>
-  <li>Aug. 2018 - Present: Research Assistant at Computer Science Department, UNC-Chapel Hill</li>
+  <li>Aug. 2018 - Present: <em>Research Assistant</em> at Computer Science Department, UNC-CH</li>
   <li>May 2021 - Aug. 2021: <em>Applied Scientist Intern</em> at Amazon Alexa AI</li>
+  <li>Jun. 2017 - Sept. 2017: <em>Research Intern</em> at Electrical Engineering Department, USC</li>
 </ul>
 
 <p><br /></p>
@@ -39,8 +41,8 @@
 
 <ol>
   <li><strong>Yubo Zhang</strong>, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian Rosenman, Stephen Pizer. “<a href="https://arxiv.org/abs/2103.10310">Lighting Enhancement Aids Reconstruction of Colonoscopic Surfaces</a>,” in <em>IPMI 2021</em>.</li>
-  <li>Ruibin Ma, Rui Wang, <strong>Yubo Zhang</strong>, Stephen Pizer, Sarah K. McGill, Julian Rosenman. “RNNSLAM: Reconstructing the 3D Colon to Visualize Missing Regions during a Colonoscopy,” in <em>Medical Image Analysis</em>.</li>
-  <li>Ruibin Ma, Sarah K. McGill, Rui Wang, Julian Rosenman, Jan-Michael Frahm, <strong>Yubo Zhang</strong>, Stephen Pizer. “Colon10K: A Benchmark for Place Recognition in Colonoscopy,’’ in <em>ISBI 2021</em>.</li>
+  <li>Ruibin Ma, Rui Wang, <strong>Yubo Zhang</strong>, Stephen Pizer, Sarah K. McGill, Julian Rosenman. “<a href="https://www.sciencedirect.com/science/article/pii/S1361841521001468">RNNSLAM: Reconstructing the 3D Colon to Visualize Missing Regions during a Colonoscopy</a>,” in <em>Medical Image Analysis</em> 72 (2021): 102100.</li>
+  <li>Ruibin Ma, Sarah K. McGill, Rui Wang, Julian Rosenman, Jan-Michael Frahm, <strong>Yubo Zhang</strong>, Stephen Pizer. “<a href="https://ieeexplore.ieee.org/abstract/document/9433780">Colon10K: A Benchmark for Place Recognition in Colonoscopy</a>,’’ in <em>ISBI 2021</em>.</li>
 </ol>
 
 <h2 id="vision-and-language">Vision-and-language</h2>

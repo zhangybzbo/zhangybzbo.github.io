@@ -10,6 +10,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 
 ## News
 
+* November 2021: A new preprint on arxiv.
 * February 2021: A paper accepted at IPMI 2021.
 * January 2021: Joining Amazon as an Applied Scientist Intern for Summer 2021.
 * January 2021: Presenting our VLN paper at IJCAI 2020.
@@ -30,10 +31,12 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 
 ![RNNSLAM](/assets/img/20.gif)
 
-> - Real-time 3D reconstruction using deep learning and SLAM methods, applying to colonoscopy videos. [Project website](http://endoscopography.web.unc.edu/).
+> - Real-time 3D reconstruction using deep learning (depth estimation) and SLAM methods, applying to colonoscopy videos. [Project website](http://endoscopography.web.unc.edu/).
 > - Deep learning for image enhancement, applying to colonoscopy video frames.
 > - Developing geometric algorithms for evaluating the reconstructed colonoscopic surfaces.
 
+1. **Yubo Zhang**, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang,
+Stephen M. Pizer. "[ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction](https://arxiv.org/abs/2111.10371)," _arXiv preprint arXiv:2111.10371_ (2021).
 1. **Yubo Zhang**, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian Rosenman, Stephen Pizer. "[Lighting Enhancement Aids Reconstruction of Colonoscopic Surfaces](https://arxiv.org/abs/2103.10310)," in _IPMI 2021_.
 1. Ruibin Ma, Rui Wang, **Yubo Zhang**, Stephen Pizer, Sarah K. McGill, Julian Rosenman. "[RNNSLAM: Reconstructing the 3D Colon to Visualize Missing Regions during a Colonoscopy](https://www.sciencedirect.com/science/article/pii/S1361841521001468)," in _Medical Image Analysis_ 72 (2021): 102100.
 1. Ruibin Ma, Sarah K. McGill, Rui Wang, Julian Rosenman, Jan-Michael Frahm, **Yubo Zhang**, Stephen Pizer. "[Colon10K: A Benchmark for Place Recognition in Colonoscopy](https://ieeexplore.ieee.org/abstract/document/9433780),'' in _ISBI 2021_.
