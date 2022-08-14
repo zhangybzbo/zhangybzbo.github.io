@@ -23,6 +23,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 ## Experience
 
 * Aug. 2018 - Present: _Research Assistant_ at Computer Science Department, UNC-CH
+* May 2022 - Aug. 2022: _Machine Learning Engineer Intern_ at Meta Reality Labs
 * May 2021 - Aug. 2021: _Applied Scientist Intern_ at Amazon Alexa AI
 * Jun. 2017 - Sept. 2017: _Research Intern_ at Electrical Engineering Department, USC
 
