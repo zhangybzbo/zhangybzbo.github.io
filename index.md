@@ -10,6 +10,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 
 ## News
 
+* October 2022: A paper accepted at ICDM 2022 workshop.
 * April 2022: A new preprint on arxiv.
 * January 2022: Joining Meta as a Research Engineer Intern for Summer 2022.
 * November 2021: A new preprint on arxiv.
@@ -50,8 +51,8 @@ Stephen M. Pizer. "[ColDE: A Depth Estimation Framework for Colonoscopy Reconstr
 
 > Focusing on vision and language grounding problems, i.e., vision-and-language navigation (VLN) and visual question answering (VQA) tasks. Improving the generalizability and interpretability of the multi-modality neural models. 
 
-1. **Yubo Zhang**, Feiyang Niu, Qing Ping, Govind Thattai. "[A Multi-level Alignment Training Scheme for Video-and-Language Grounding](https://arxiv.org/abs/2204.10938)," _arXiv preprint arXiv:2204.10938_ (2022).
 1. **Yubo Zhang**\*, Hao Tan\*, Mohit Bansal. "[Diagnosing the Environment Bias in Vision-and-Language Navigation](https://arxiv.org/abs/2005.03086)," in _IJCAI 2020_.
+1. **Yubo Zhang**, Feiyang Niu, Qing Ping, Govind Thattai. "[A Multi-level Alignment Training Scheme for Video-and-Language Grounding](https://arxiv.org/abs/2204.10938)," _ICDM 2022, FOMO-VL Workshop_.
 
 
 ## MRI image super-resolution and segmentation
