@@ -10,6 +10,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 
 ## News
 
+* February 2023: A paper accepted at IPMI 2023.
 * October 2022: A paper accepted at ICDM 2022 workshop.
 * April 2022: A new preprint on arxiv.
 * January 2022: Joining Meta as a Research Engineer Intern for Summer 2022.
@@ -39,6 +40,7 @@ I received my bachelor's degree from the Department of Automation, Tsinghua Univ
 > - Deep learning for image enhancement, applying to colonoscopy video frames.
 > - Developing geometric algorithms for evaluating the reconstructed colonoscopic surfaces.
 
+1. Shuxian Wang\*, **Yubo Zhang**\*, Sarah K. McGill, Julian G. Rosenman, Jan-Michael Frahm, Soumyadip Sengupta, Stephen M. Pizer. "[A Surface-normal Based Neural Framework for Colonoscopy Reconstruction](https://arxiv.org/abs/2303.07264)," in _IPMI 2023_.
 1. **Yubo Zhang**, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang,
 Stephen M. Pizer. "[ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction](https://arxiv.org/abs/2111.10371)," _arXiv preprint arXiv:2111.10371_ (2021).
 1. **Yubo Zhang**, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian Rosenman, Stephen Pizer. "[Lighting Enhancement Aids Reconstruction of Colonoscopic Surfaces](https://arxiv.org/abs/2103.10310)," in _IPMI 2021_.
